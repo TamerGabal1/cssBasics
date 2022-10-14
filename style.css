@@ -1,0 +1,14 @@
+
+
+/* th{
+    background-color: #427fef;
+} */
+
+tr:nth-child(2), tr:nth-child(4){
+    background-color: gray;
+}
+
+.blue{
+    background-color: #427fef;
+    color: white;
+}
